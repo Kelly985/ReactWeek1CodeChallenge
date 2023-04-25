@@ -1,3 +1,25 @@
+About The Project
+This project is a react web application that demonstrates the functionality of react in web applications.
+
+The project is a transactions management react app that is used to demonstrate the functionality of different react components. In this project i'll be showcasing how to fetch and display transaction data from an API, create a new transaction and add it to the UI, DELETE a transaction and update the details of the transaction. Basically the CRUD functionality in react.
+
+Built With
+user interface created with html.
+
+Functionality added by JavaScript.
+
+Data stored using JSON server.
+
+styling added using CSS.
+
+
+License
+Distributed under the Apache License. See LICENSE.txt for more information.
+
+Contact
+Your Name - [Kelly985 @Github.com] Project Link: [ https://kelly985.github.io/Nexgenscoutsphase1project/ ]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
