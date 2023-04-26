@@ -1,3 +1,7 @@
+Press the following link to view my transactions project : [ https://transactions-app-sage.vercel.app/ ]
+I have deployed my data to a public API so the link works perfectly.
+
+
 About The Project
 This project is a react web application that demonstrates the functionality of react in web applications.
 
@@ -16,8 +20,12 @@ styling added using CSS.
 License
 Distributed under the Apache License. See LICENSE.txt for more information.
 
+
 Contact
-Your Name - [Kelly985 @Github.com] Project Link: [ https://kelly985.github.io/Nexgenscoutsphase1project/ ]
+Your Name - [Kelly985 @Github.com] Project Link: [ https://transactions-app-sage.vercel.app/ ]
+
+
+
 
 
 # Getting Started with Create React App
