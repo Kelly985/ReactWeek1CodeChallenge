@@ -150,3 +150,8 @@ button[type="submit"]:hover {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+h1{
+  text-align: center;
+  font-weight:bold ;
+}
