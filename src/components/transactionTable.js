@@ -7,14 +7,14 @@ function TransactionTable() {
   const [editId, setEditId] = useState(null);
 
   useEffect(() => {
-    fetch("http://localhost:3099/transactions")
+    fetch("https://transactions-ke6w.onrender.com/transactions")
       .then((res) => res.json())
       .then((transactions) => setTransactions(transactions));
   }, []);
 
 
   function handleDelete(id) {
-    fetch(`http://localhost:3099/transactions/${id}`, {
+    fetch(`https://transactions-ke6w.onrender.com/transactions/${id}`, {
       method: "DELETE",
     })
       .then((res) => {

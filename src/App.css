@@ -139,7 +139,7 @@ button[type="submit"]:hover {
 }
 
 .delete-btn {
-  background-color: #f44336; /* Red */
+  background-color: #f44336;
   border: none;
   color: white;
   padding: 8px 16px;

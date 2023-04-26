@@ -17,7 +17,7 @@ function TransactionForm() {
     };
     
 
-    fetch("http://localhost:3099/transactions", {
+    fetch("https://transactions-ke6w.onrender.com/transactions", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
